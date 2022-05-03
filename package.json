@@ -1,0 +1,19 @@
+{
+  "name": "todo_app",
+  "version": "1.0.0",
+  "description": "Base Todo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AZ70code/todo_app.git"
+  },
+  "author": "AZ70code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AZ70code/todo_app/issues"
+  },
+  "homepage": "https://github.com/AZ70code/todo_app#readme"
+}
