@@ -1,11 +1,5 @@
-import "./styles/main.scss";
+import 'tw-elements';
+import './styles/main.scss';
+import App from './scripts/App';
 
-console.log('Hello Webpack!!!');
-console.log('Hello World');
-async function test() {
-    await 1;
-}
-let x = 0;
-
-
-test();
+const app = new App();

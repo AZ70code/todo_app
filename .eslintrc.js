@@ -12,6 +12,7 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
-    'no-used-vars': 'warn',
+    'no-unused-vars': 'warn',
+    'import/prefer-default-export': 'none'
   },
 };
